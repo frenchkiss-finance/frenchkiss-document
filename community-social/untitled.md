@@ -1,4 +1,4 @@
 # Twitter
 
-[https://twitter.com/FrenchkissFinance](https://twitter.com/FrenchkissFinance)
+[https://twitter.com/FrenchKiss_Fin](https://twitter.com/FrenchKiss_Fin)
 

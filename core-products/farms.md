@@ -7,14 +7,5 @@
 **Reward multipliers:**
 
 * **KISS/BNB \(20x Rewards\)**
-* **BUSD/BNB \(10x Rewards\)**
-* **ADA/BNB \(5x Rewards\)**
-* **BAND/BNB \(5x Rewards\)**
-* **DOT/BNB \(5x Rewards\)**
-* **EOS/BNB \(5x Rewards\)**
-* **LINK/BNB \(5x Rewards\)**
-* **BAKE/BNB \(1x Rewards\) - For this one, you can use Bakery’s LP token directly.**
-* **BURGER/BNB \(1x Rewards\)** 
 
-**\*\*\[**Get your FLIP tokens \(FrenchKiss Finance Liquidity Provider Tokens\) HERE**\]\(**[https://exchange.frenchkiss.finance/\#/swap](https://exchange.frenchkiss.finance/#/swap)**\)**.\*\*
-
+Get your FLIP tokens (FrenchKiss Finance Liquidity Provider Tokens) [HERE](https://exchange.frenchkiss.finance/#/swap)

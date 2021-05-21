@@ -8,7 +8,7 @@ As an example, if you deposited $KISS and $BNB into a liquidity pool, you would 
 
 The number of FLIP tokens you receive represents your portion of the KISS-BNB liquidity pool. You can also redeem your funds at any time by removing your liquidity.
 
-![](https://lh6.googleusercontent.com/2kVPpX68tw74VevgCTEa-Z7Ca0_KGCWJiTOh43A6OROXGPUI1QnoF9bXp2kpSRTrtCUNPvI5UPbrCAuG4oyNEVDkOJp_PsE7pWrCu6PJjrymjEfYgMdsdfogaMt35lffRoRWsbqb)
+![](../.gitbook/assets/screenshots-2020-09-17-at-10.38.29-pm.png)
 
 Providing liquidity is not without risk, as you may be exposed to impermanent loss.  
 [“Simply put, impermanent loss is the difference between holding tokens in an AMM and holding them in your wallet.” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)

@@ -11,4 +11,3 @@ When you make a token swap \(trade\) on the exchange you will pay a **0.2% tradi
 **0.17%** - Returned to liquidity pools in the form of a fee reward for liquidity providers.
 
 **0.03%** - Sent to the FrenchKiss Finance Treasury.
-

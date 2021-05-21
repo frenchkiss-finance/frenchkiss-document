@@ -1,18 +1,18 @@
 # How to Trade on the FrenchKiss Finance Exchange
 
-![Image for post](https://miro.medium.com/max/1400/0*C0Ng5_d1hK28qMMh)
+![Image for post](../.gitbook/assets/guide/first.png)
 
 1. Go to the exchange page [here](https://exchange.frenchkiss.finance/#/swap).
 
 
 
-![Image for post](https://miro.medium.com/max/512/0*roteFKZKRqO-IWYU)
+![Image for post](../.gitbook/assets/guide/second.png)
 
 2. Unlock your Binance Smart Chain Wallet \(top right-hand side\).
 
 
 
-![Image for post](https://miro.medium.com/max/1400/0*H5TedYqYQFb5oiO0)
+![Image for post](../.gitbook/assets/guide/third.png)
 
 3. Select the tokens you wish to trade and enter the amount.
 

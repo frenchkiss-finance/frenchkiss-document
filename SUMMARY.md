@@ -14,8 +14,7 @@
 ## Tokenomics
 
 * [KISS Basics](tokenomics/untitled.md)
-* [SYRUP \(Staking\)](tokenomics/syrup.md)
-* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
+* [GLOSS \(Staking\)](tokenomics/gloss.md)
 
 ## Guides
 
@@ -26,7 +25,7 @@
 ## Community / Social
 
 * [Twitter](community-social/untitled.md)
-* [Telegram](community-social/discord.md)
+* [Telegram](community-social/telegram.md)
 * [Blog \(Medium\)](community-social/blog-medium.md)
 
 ## Code
